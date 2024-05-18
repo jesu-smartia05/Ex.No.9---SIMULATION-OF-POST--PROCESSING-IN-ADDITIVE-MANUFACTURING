@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 5.5.24
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +46,10 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+### Name:JESU SMARTIA A
+### Register Number:212223110016
 
-### Name:
-### Register Number:
+![exp6 2](https://github.com/jesu-smartia05/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148514819/3be4a3ed-9398-4a5d-bcc2-fe164530a395)
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
